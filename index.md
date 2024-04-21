@@ -1,7 +1,7 @@
 ---
 ---
 
-# heliossunDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# RIT Top 1 ML Research Lab
 
 
 
