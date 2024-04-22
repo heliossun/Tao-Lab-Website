@@ -1,5 +1,5 @@
 
-# heliossunDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# RIT Research Lab
 
 Visit **[heliossun.github.io/Tao-Lab-Website](https://heliossun.github.io/Tao-Lab-Website)** 🚀
 
