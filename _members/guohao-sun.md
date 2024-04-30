@@ -1,13 +1,16 @@
 ---
 name: Guohao Sun
-image: images/photo.jpg
+image: images/guohao.jpg
+description: School of Information at Rochester Institute of Technology (RIT)
 role: Research Assistant
 aliases:
   - Zach
   - Guohao
 links:
+  linkedin: sarahjohnson
   home-page: http://urchinpie.com/
   orcid: 0009-0002-0935-6196
+  google-scholar: ETJoidYAAAAJ
 ---
 
 I am a Computing and Information Science Ph.D. student at Rochester Institute of Technology (RIT), under guidance of Dr. Zhiqiang Tao.

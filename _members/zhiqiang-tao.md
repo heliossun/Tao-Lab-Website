@@ -1,11 +1,13 @@
 ---
 name: Zhiqiang Tao
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: School of Information at Rochester Institute of Technology (RIT)
+role: Assistant Professor
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  linkedin: sarahjohnson
+  home-page: https://ztao.cc/
+  orcid: 
+  google-scholar: ETJoidYAAAAJ
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
