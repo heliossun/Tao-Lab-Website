@@ -1,7 +1,7 @@
 - id: arXiv:2403.17998
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  description: paper Accepted by cvpr1014
+  date: 2024-3-26
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
     - type: source
@@ -15,3 +15,19 @@
     - video
   repo: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
 
+- id: arXiv:2403.11299
+  type: paper
+  description: paper Accepted by cvpr1014
+  date: 2024-3-17
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
+    - type: website
+      link: https://arxiv.org/pdf/2403.17998
+  tags:
+    - vision-Language
+    - retrieval
+    - video
+  repo: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
