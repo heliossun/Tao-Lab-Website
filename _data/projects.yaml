@@ -2,7 +2,7 @@
   subtitle: Foundation models and general vision-language understanding. 
   group: featured
   image: images/projects/guohao/vision-language.png
-  link: 
+  link: projects/VL_understanding
   description: General vision-language understanding requires robust vision-language alignment. We have different research about this topic.
   tags:
     - multi-modal
