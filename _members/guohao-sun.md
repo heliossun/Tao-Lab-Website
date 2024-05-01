@@ -1,8 +1,7 @@
 ---
 name: Guohao Sun
 image: images/member/guohao.png
-description: School of Information at Rochester Institute of Technology (RIT)
-role: PHD student
+description: PHD student
 aliases:
   - Zach
   - Guohao

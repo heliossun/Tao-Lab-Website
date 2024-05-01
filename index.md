@@ -1,8 +1,6 @@
 ---
 ---
 
-# RIT Research Lab
-
 
 
 {% include section.html %}
@@ -11,7 +9,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover what our lab is all about! Our research is aimed at .
 
 {%
   include button.html

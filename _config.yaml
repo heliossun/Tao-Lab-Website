@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: RIT Research Lab.
-subtitle: 
-description: 
-header: images/header.jpg
-footer: 
+title: Maching Learning + CV + NLP
+subtitle: School of Information at Rochester Institute of Technology (RIT)
+description: The RIT ML research lab is a group of researchers working to advance machine Learning methodology and it's downstream applications.
+header: images/background.jpg
+footer: images/background.jpg
 proofer: false
 header-dark: false
 footer-dark: false
