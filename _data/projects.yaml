@@ -12,7 +12,7 @@
   subtitle: Uncertainty estimatoin. 
   group: featured
   image: 
-  link: 
+  link: projects/evidential
   description: 
   tags:
     - robustness
@@ -22,16 +22,16 @@
   subtitle: Text and image generation.
   group: featured
   image: 
-  link: 
+  link: projects/deep_generative
   description: 
   tags:
     - generation
 
 - title: Medical AI
-  subtitle: Text and image generation.
+  subtitle: Trustworthy AI medical assistant.
   group: featured
   image: 
-  link: 
+  link: projects/medical
   description: 
   tags:
-    - generation
+    - medical
