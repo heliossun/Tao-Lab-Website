@@ -2,13 +2,11 @@
   type: paper
   description: paper Accepted by cvpr1014
   date: 2024-3-26
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/projects/jiamian/t-mass.jpg
   buttons:
     - type: source
-      text: Manuscript Source
+      text: Source Code
       link: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
-    - type: website
-      link: https://arxiv.org/pdf/2403.17998
   tags:
     - vision-Language
     - retrieval
@@ -17,17 +15,15 @@
 
 - id: arXiv:2403.11299
   type: paper
-  description: paper Accepted by cvpr1014
+  description: paper under-review
   date: 2024-3-17
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/projects/guohao/sq-llava.jpg
   buttons:
     - type: source
-      text: Manuscript Source
-      link: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
-    - type: website
-      link: https://arxiv.org/pdf/2403.17998
+      text: Source Code
+      link: https://github.com/heliossun/SQ-LLaVA
   tags:
     - vision-Language
-    - retrieval
-    - video
-  repo: https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval
+    - LLM
+    - generation
+  repo: https://github.com/heliossun/SQ-LLaVA
