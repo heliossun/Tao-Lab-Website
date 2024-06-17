@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3589334.3645653
+  title: Aligning Out-of-Distribution Web Images and Caption Semantics via Evidential
+    Learning
+  authors:
+  - Guohao Sun
+  - Yue Bai
+  - Xueying Yang
+  - Yi Fang
+  - Yun Fu
+  - Zhiqiang Tao
+  publisher: Proceedings of the ACM on Web Conference 2024
+  date: '2024-05-13'
+  link: https://doi.org/gtt3rt
+  orcid: 0009-0002-0935-6196
+  plugin: orcid.py
+  file: orcid.yaml
 - id: arXiv:2403.17998
   title: 'Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval'
   authors:
